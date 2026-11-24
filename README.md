@@ -6,5 +6,6 @@
 - `2_homework/2_homework_eda_feature_engineering.ipynb` — исследовательский анализ данных и конструирование признаков.
 - `3_homework/3_homework_bearing_diagnostics.ipynb` — акустические сигналы и модели.
 - `4_homework/4_homework_model_diagnostics.ipynb` — применение модели акустической диагностики.
+- `5_homework/5_homework_reliable_inference.ipynb` — проверка данных и обработка ошибок.
 
 В каждой папке сохранены исходные данные, необходимые для запуска соответствующего блокнота. Блокноты выполнены целиком, включая встроенные ячейки самопроверки.
